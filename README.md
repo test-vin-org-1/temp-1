@@ -165,3 +165,4 @@ e2e-bump rapid-workload-rp2: bump before RP2 1780480242584376900
 e2e-bump rapid-workload-rp2: bump before RP2 1780481204326724800
 e2e-bump rapid-workload-rp3: bump before forced FULL RP3 1780481210598987600
 e2e-bump rapid-workload-rp4: bump before RP4 1780481216959637600
+e2e-bump rapid-workload-rp2: bump before RP2 1780482383904539200
